@@ -1,14 +1,14 @@
-# Temperature Converter
+## Temperature Converter
 
-## Technolog(y/ies)
+### Programming Language
 
 - C
 
-## Description
+### Description
 
-A simple program that converts temperatures from Fahrenheit to Celsius and vice versa.
+A simple C program that converts temperatures from Fahrenheit to Celsius and vice versa.
 
-## How to run
+### How to run
 
 1. Clone the repository
 2. Compile the program e.g.
